@@ -248,7 +248,7 @@ footer {
 
 .hero {
     min-height:250px;
-    background-image:var(--HERO-GRADIENT), url(/home-hero.jpg);
+    background-image:var(--HERO-GRADIENT), url(home-hero.jpg);
     background-size: cover;
     background-position: center;
 
@@ -377,7 +377,7 @@ p {
 
 .little-info {
     margin-block: 2rem;
-    background-image:var(--HERO-GRADIENT), url(/revised.webp);
+    background-image:var(--HERO-GRADIENT), url(revised.webp);
     border-radius:10px;
     width:100%;
     padding:2rem;
